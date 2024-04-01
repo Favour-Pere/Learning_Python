@@ -1,0 +1,6 @@
+In python, you can create lists
+In python, you can use if statements
+In python, you can create dictionary
+In python, you can declare functions
+In python, you can create classes
+In python, you can declare variables
