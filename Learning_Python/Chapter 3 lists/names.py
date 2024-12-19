@@ -3,6 +3,9 @@
 
 name = ["Favour", "Rejoice", "Fortune", "Benedict", "Sopreye"]
 
+for i in range(len(name)):
+ print(name[i])
+
 print(name[0])
 print(name[1])
 print(name[2])
